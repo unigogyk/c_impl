@@ -23,16 +23,8 @@ public class Practice13 {
 	
 	//找到完数，并输出其所有因子
 	public static void test(){
-		int k1 = 0;
-		int k2 = 0;
-		int k3 = 0;
-		int k4 = 0;
-		int k5 = 0;
-		int k6 = 0;
-		int k7 = 0;
-		int k8 = 0;
-		int k9 = 0;
-		int k10 = 0;
+		int k1, k2, k3, k4, k5, k6, k7, k8, k9, k10;
+		k1 = k2 = k3 = k4 = k5 = k6 = k7 = k8 = k9 = k10 = 0;
 	    int i,a,n,s;
 	    for (a = 100; a <= 999; a++)
 	    {
