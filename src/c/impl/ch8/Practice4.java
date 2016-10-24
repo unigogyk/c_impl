@@ -10,7 +10,7 @@ import java.util.Scanner;
 如果输入的字符在字符串中不存在，则字符串照原样输出。
  
  */
-public class Practice8 {
+public class Practice4 {
 	
 	public static String fun(String s, char ch){
 		char[] arr = s.toCharArray();
